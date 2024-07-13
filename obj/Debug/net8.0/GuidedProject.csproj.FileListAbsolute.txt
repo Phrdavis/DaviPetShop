@@ -1,0 +1,14 @@
+D:\Projetos - Davi\C#\GuidedProject\bin\Debug\net8.0\GuidedProject.exe
+D:\Projetos - Davi\C#\GuidedProject\bin\Debug\net8.0\GuidedProject.deps.json
+D:\Projetos - Davi\C#\GuidedProject\bin\Debug\net8.0\GuidedProject.runtimeconfig.json
+D:\Projetos - Davi\C#\GuidedProject\bin\Debug\net8.0\GuidedProject.dll
+D:\Projetos - Davi\C#\GuidedProject\bin\Debug\net8.0\GuidedProject.pdb
+D:\Projetos - Davi\C#\GuidedProject\obj\Debug\net8.0\GuidedProject.GeneratedMSBuildEditorConfig.editorconfig
+D:\Projetos - Davi\C#\GuidedProject\obj\Debug\net8.0\GuidedProject.AssemblyInfoInputs.cache
+D:\Projetos - Davi\C#\GuidedProject\obj\Debug\net8.0\GuidedProject.AssemblyInfo.cs
+D:\Projetos - Davi\C#\GuidedProject\obj\Debug\net8.0\GuidedProject.csproj.CoreCompileInputs.cache
+D:\Projetos - Davi\C#\GuidedProject\obj\Debug\net8.0\GuidedProject.dll
+D:\Projetos - Davi\C#\GuidedProject\obj\Debug\net8.0\refint\GuidedProject.dll
+D:\Projetos - Davi\C#\GuidedProject\obj\Debug\net8.0\GuidedProject.pdb
+D:\Projetos - Davi\C#\GuidedProject\obj\Debug\net8.0\GuidedProject.genruntimeconfig.cache
+D:\Projetos - Davi\C#\GuidedProject\obj\Debug\net8.0\ref\GuidedProject.dll
