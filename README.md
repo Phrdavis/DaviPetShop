@@ -4,7 +4,7 @@ Welcome to the Davi's Petshop! This is a guide on how to get started with the pr
 
 ## Introduction
 
-The Davi's Petshop is a C# project that aims to administrate an Petshop. It provides to show the pets in the database, add new pets with some virifications and more. Whether you are a beginner or an experienced developer, this project is designed only to study propose.
+The Davi's Petshop is a C# project that aims to administrate an Petshop. It provides to show the pets in the database, add new pets with some virifications and more. Whether you are a beginner or an experienced developer, this project is designed only to study propose in the Microsoft Learn plataform.
 
 ## Getting Started
 
